@@ -1,0 +1,17 @@
+.task-title {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.comment-body {
+  font-size: 16px !important;
+  padding: 8px !important;
+}
+
+.embed {
+  display: none;
+}
+
+.meta {
+  margin-bottom: 18px;
+}

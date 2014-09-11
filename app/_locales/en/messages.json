@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Ideal Blossom",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Blossom.io with a sprinkle of Ideal.",
+    "description": "The description of the application"
+  }
+}
